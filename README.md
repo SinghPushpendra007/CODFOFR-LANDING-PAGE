@@ -1,10 +1,15 @@
 Landing Page
+
 CodSoft Internship Task-2
 
 COMPANY: CODSOFT
+
 NAME: PUSHPENDRA SINGH
+
 INTERN ID: CS25RY11363
+
 DOMAIN: WEB DEVELOPMENT
+
 DURATION: 4 WEEKS
 
 Designing a landing page using HTML and CSS for my internship project at CodSoft is a valuable opportunity to highlight my front-end development skills. Below is an overview of the process, the technologies I will employ, and the potential impact of this project.
